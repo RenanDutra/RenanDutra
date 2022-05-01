@@ -7,8 +7,7 @@
 
 ### Hello there 👋
 
-- 🔭 I’m currently working on machine learning
-- 🌱 I’m currently learning assembly
+- 🌱 I’m currently learning Hidden Markov models
 - 📫 How to reach me: here -> https://github.com/RenanDutra 😄 
  
 ##
